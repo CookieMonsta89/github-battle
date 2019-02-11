@@ -10,12 +10,13 @@
     ]
   },
   "scripts": {
-    "create": "webpack"
+    "start": "webpack-dev-server --open"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "prop-types": "^15.7.1",
     "react": "^16.7.0",
     "react-dom": "^16.7.0"
   },
